@@ -1,3 +1,3 @@
 
-Hackathon game,
+Hackathon Project,
 Egg clicker
